@@ -1,17 +1,31 @@
 # About Me:
-Full-stack Android developer with a relentless drive to build the best. Currently studying AI and focused on building innovative tech.
+Full-stack Android developer with a relentless drive to build the best. Currently studying AI and focused on building   
+innovative tech.
+
 
 
 # Tech Stack:
 ![Android](https://img.shields.io/badge/Android-2DBF6C?style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amz202&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amz202&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Ktor](https://img.shields.io/badge/Ktor-BF360C?style=for-the-badge&logo=kotlin&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amz202&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+
+# GitHub Stats:
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amz202&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amz202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+
+
+###
+
+### Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=amz202&limit=5&theme=nightowl&combine_all_yearly_contributions=true&hide_border=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amz202&icon=0&color=1)](https://visitcount.itsvg.in)
