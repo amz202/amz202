@@ -3,8 +3,8 @@ Full-stack Android developer with a relentless drive to build the best. Currentl
 
 
 # Tech Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)]
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)]
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amz202&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
