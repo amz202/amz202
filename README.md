@@ -13,7 +13,7 @@ innovative tech.
 
 # GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amz202&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amz202&theme=blue_navy&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amz202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
