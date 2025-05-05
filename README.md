@@ -23,10 +23,6 @@ innovative tech.
 ![](https://github-contributor-stats.vercel.app/api?username=amz202&limit=5&theme=nightowl&combine_all_yearly_contributions=true&hide_border=true)
 
 ###
-
-### Views:
-<img src="https://profile-counter.glitch.me/amz202/count.svg?" />
-
 ---
 
 
