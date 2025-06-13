@@ -18,11 +18,6 @@ innovative tech.
 </div>
 
 ###
-
-### Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=amz202&limit=5&theme=nightowl&combine_all_yearly_contributions=true&hide_border=true)
-
-###
 ---
 
 
