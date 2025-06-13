@@ -8,8 +8,7 @@ innovative tech.
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-BF360C?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Azure%20PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 20px;">
