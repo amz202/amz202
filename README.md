@@ -1,6 +1,6 @@
 # About Me:
-Full-stack Android developer with a relentless drive to build the best. Currently studying AI and focused on building  
-innovative tech.
+Full-stack Android developer with a relentless drive to build the best. Building out of curiosity, challenge, or  
+just for the thrill of it.
 
 # Tech Stack:
 ![Android](https://img.shields.io/badge/Android-2DBF6C?style=for-the-badge&logo=Android&logoColor=white)
