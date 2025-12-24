@@ -14,9 +14,11 @@ the thrill of it.
 ## Secondary Stack
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-FFD54F?style=for-the-badge&logo=express&logoColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2E7D32?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-212121?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-00897B?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 # GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 20px;">
