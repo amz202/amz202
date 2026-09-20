@@ -5,7 +5,7 @@ Backend-focused software engineer with a relentless drive to build resilient sys
 
 ## Core Backend Infrastructure
 
-**Frameworks**<br>
+**Languages & Frameworks**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -40,7 +40,7 @@ Backend-focused software engineer with a relentless drive to build resilient sys
 # Engineering Portfolio
 
 ### [ExploitGrid](https://exploitgrid.net/)
-![Role](https://img.shields.io/badge/Role-Full_Stack_Architect-0038A8?style=flat-square) [![Client](https://img.shields.io/badge/Client-Nebulark-1E293B?style=flat-square)](https://www.nebulark.net/) ![Domain](https://img.shields.io/badge/Domain-Cybersecurity-006994?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Full_Stack_Architec-0038A8?style=flat-square) [![Client](https://img.shields.io/badge/Client-Nebulark-1E293B?style=flat-square)](https://www.nebulark.net/) ![Domain](https://img.shields.io/badge/Domain-Cybersecurity-006994?style=flat-square)
 > **A cybersecurity threat intelligence platform** that aggregates vulnerability data (CVEs) and exploit proofs-of-concept, tracking them against specific software inventories to provide real-time alerting and cybersecurity risk profiles.
 
 *   **Data Ingestion:** Architected diverse ingestion pipelines (API polling, web scraping, and Git diffing) to continuously synchronize and normalize distributed threat intelligence feeds via transaction-safe `PostgreSQL` batch processing.
@@ -54,7 +54,7 @@ Backend-focused software engineer with a relentless drive to build resilient sys
 ![Role](https://img.shields.io/badge/Role-Backend_Lead-0038A8?style=flat-square) ![Client](https://img.shields.io/badge/Client-ICT_Dte._NUST-1E293B?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Enterprise_IT-006994?style=flat-square) ![Status](https://img.shields.io/badge/Status-Pre__Release-D40000?style=flat-square)
 > **An enterprise IT support ticketing platform** engineered for the ICT Dte., National University of Sciences and Technology (NUST), managing the complete complaint lifecycle with strict role-based access control (RBAC) for university staff and technicians.
 
-*   **State Machine Logic:** Designed role-based ticket lifecycle transitions enforcing conditional status updates across multiple roles.
+*   **State Machine Logic:** Designed role-based ticket lifecycle transitions, enforcing conditional status updates per stage.
 *   **Real-Time Events:** Integrated `Socket.IO` for instant, room-based event broadcasting to keep distributed teams synchronized.
 *   **Security & Compliance:** Append-only audit logging written in-transaction with every mutating operation, and refresh-token rotation on each use with an absolute expiry to cap refresh chains.
 
