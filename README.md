@@ -1,42 +1,6 @@
-## About Me:
-Backend-focused software engineer with a relentless drive to build resilient systems.
+> Backend engineer building event-driven systems, ingestion pipelines, and RBAC platforms in TypeScript and Kotlin, on PostgreSQL   
+and Redis.
 
-# Tech Stack:
-
-## Core Backend Infrastructure
-
-**Languages & Frameworks**<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2E7D32?style=for-the-badge&logo=springboot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-BF360C?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Data Layer**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-212121?style=for-the-badge&logo=drizzle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Infrastructure**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF4081?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-## Mobile Frontend
-
-![Android](https://img.shields.io/badge/Android-2DBF6C?style=for-the-badge&logo=Android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Room DB](https://img.shields.io/badge/Room%20DB-73398D?style=for-the-badge&logo=android&logoColor=white)
-
-# GitHub Stats:
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=amz202&theme=blue_navy&hide_border=true" height="150" />  
-  <img src="https://github-readme-stats-six-lime-fr2el28qhs.vercel.app/api/top-langs?username=amz202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blue_navy&hide_border=true&count_private=true&order=4" height="150" />
-</div>
-
----
 # Engineering Portfolio
 
 ### [ExploitGrid](https://exploitgrid.net/)
@@ -57,5 +21,41 @@ Backend-focused software engineer with a relentless drive to build resilient sys
 *   **State Machine Logic:** Designed role-based ticket lifecycle transitions, enforcing conditional status updates per stage.
 *   **Real-Time Events:** Integrated `Socket.IO` for instant, room-based event broadcasting to keep distributed teams synchronized.
 *   **Security & Compliance:** Append-only audit logging written in-transaction with every mutating operation, and refresh-token rotation on each use with an absolute expiry to cap refresh chains.
+
+---
+
+# Tech Stack:
+
+## Core Backend
+
+**Languages & Frameworks**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2E7D32?style=for-the-badge&logo=springboot&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-BF360C?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Data Layer**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-212121?style=for-the-badge&logo=drizzle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Infrastructure**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6C37?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+## Mobile Frontend
+
+![Android](https://img.shields.io/badge/Android-2DBF6C?style=for-the-badge&logo=Android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room%20DB-73398D?style=for-the-badge&logo=android&logoColor=white)
+
+# GitHub Stats:
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://streak-stats.demolab.com/?user=amz202&theme=blue_navy&hide_border=true" height="150" />  
+</div>
 
 ---
