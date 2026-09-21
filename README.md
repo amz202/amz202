@@ -11,7 +11,7 @@
 *   **Event-Driven Alerting:** Built asynchronous, idempotent notification pipelines (Email, Telegram, Discord, WhatsApp) utilizing `BullMQ` and `Redis` pub/sub.
 *   **Infrastructure:** Configured `Nginx` reverse proxy for real-time Server-Sent Events (SSE) stream delivery and SSR micro-caching.
 
-<br>
+---
 
 ### NUST E-Support System
 ![Role](https://img.shields.io/badge/Role-Backend_Dev_%26_Team_Lead-0038A8?style=flat-square) ![Client](https://img.shields.io/badge/Client-ICT_Dte._NUST-1E293B?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Enterprise_IT-006994?style=flat-square) ![Status](https://img.shields.io/badge/Status-Pre__Release-D40000?style=flat-square)
