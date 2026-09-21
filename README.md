@@ -1,5 +1,4 @@
-> Backend engineer building event-driven systems, ingestion pipelines, and RBAC platforms in TypeScript and Kotlin, on PostgreSQL   
-and Redis.
+> Backend engineer building event-driven systems, ingestion pipelines, and RBAC platforms in TypeScript and Kotlin, on PostgreSQL and Redis.
 
 # Engineering Portfolio
 
